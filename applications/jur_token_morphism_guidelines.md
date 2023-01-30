@@ -1,73 +1,47 @@
-# Jur Token Morphism Guidelines
+# Token Morphism Guidelines
 
 - **Team Name:** Jur
 - **Payment Address:** ETH Address (USDC) 0x55dB5D91C75635dfb44AD4235c715254FA3151B1
 - **Level** 2
 
 ## Project Overview :page_facing_up:
-Research paper regarding the SEC DOT regulatory process and outcomes and recommendations for Dotsama and the wider Web3 ecosystem
+Research paper regarding the SEC DOT regulatory process, outcomes and recommendations for Dotsama and the wider Web3 ecosystem
 
 
 ### Overview
-In earlier phases of Web3 - namely 2017 and 2018 - there was extensive debate about the legal
-nature of tokens and the process for getting those tokens acknowledged by regulatory bodies such
-as the SEC. Amidst the frenzy of the latest bull run, those debates subsided somewhat. In a
-post-FTX market, with even more scrutinous regulatory eyes fixed upon crypto, those debates and
-the need for best practices for undergoing regulatory recognition have reemerged as even more
-critical pieces of knowledge for web3 builders. In this environment, Polkadot’s efforts and ultimate
-success in the regulatory arena warrant study and dissemination to the wider web3 community. It is
-in this spirit that we submit our grant request to the Web3 Foundation.
+In earlier phases of Web3 - namely 2017 and 2018 - there was extensive debate about the legal nature of tokens and the process for getting those tokens acknowledged by regulatory bodies such as the SEC. Amidst the frenzy of the latest bull run, those debates have somewhat subsided. In a post-FTX market, with even more scrutinous regulatory eyes fixed upon crypto, those debates and the need for best practices for undergoing regulatory recognition have reemerged as even more critical pieces of knowledge for web3 builders. In this environment, Polkadot’s efforts and ultimate success in the regulatory arena warrant study and dissemination to the wider web3 community. It is in this spirit that we submit our grant request to the Web3 Foundation.
 
 ### Project Details
 
-Our research aims to explore the concept of token morphism and then create accessible, actionable
-content geared towards web3 builders - legally minded and non-legally minded alike - who have an
-urgent need to understand this important but somewhat esoteric topic. While the resulting content
-will not constitute legal advice, it will contain clear, actionable recommendations that will be relevant
-for many Web3 projects
+Our research aims to explore the concept of token morphism and then create accessible, actionable content geared towards web3 builders - legally minded and non-legally minded alike - who have an urgent need to understand this important but somewhat esoteric topic. While the resulting content will not constitute legal advice, it will contain clear, actionable recommendations that will be relevant for many Web3 projects. 
 
 **Research Themes**
 - The SEC no-action letter: What is it, when is it necessary, when is it not and what are the
 current trends?
-- Comprehensive analysis of key case studies between 2017-2022
+- Comprehensive analysis of key case studies between 2017-2022.
 - Token morphism: concepts and examples
-- Polkadot case study: lessons learned from Polkadot’s process and dialogue with the SEC
-- Best practices regarding token issuance
-- Elucidation of applicable (and non-applicable) use cases of token morphism within Web3
-- If feasible, a Parachain-oriented token issuance blueprint
-- A set of findings relevant to the broader Web3 industry
-- A brief comparative analysis of the US’ and civil law countries’ crypto regulatory frameworks
+- Polkadot case study: lessons learned from Polkadot’s process and dialogue with the SEC.
+- Best practices regarding token issuance.
+- Elucidation of applicable (and non-applicable) use cases of token morphism within Web3.
+- If feasible, a Parachain-oriented token issuance blueprint.
+- A set of findings relevant to the broader Web3 industry.
+- A brief comparative analysis of the US’ and civil law countries’ crypto regulatory frameworks.
 
 **Problem Statement**
 
-- Web3 regulatory matters are complicated. Each project must obtain proper legal advice, but
-at the same time, there is no single, up-to-date reference point that they can rely upon for
-this process. These complexities and unknowns are one of the factors slowing the growth of
-Web3.
-- Regulatory topics are often discussed through a technical lens. There is a significant lack of
-content oriented towards non-technical stakeholders.
-- There is no easy-to-understand documentation of Polkadot’s unique process and outcomes
-achieved over the last three years of dialogue with the SEC
+- Web3 regulatory matters are complicated. Each project must obtain proper legal advice, but at the same time, there is no single, up-to-date reference point that they can rely upon for this process. These complexities and unknowns are one of the factors slowing the growth of Web3.
+- Regulatory topics are often discussed through a technical lens. There is a significant lack of content oriented towards non-technical stakeholders.
+- There is no easy-to-understand documentation of Polkadot’s unique process and outcomes achieved over the last three years of dialogue with the SEC.
 
-**Research Method**
+**Research Methods**
 
-- Interview and dialogue with the actors who, on behalf of Polkadot, engaged in the
-conversation with the SEC, including Joshua Ashley Klayman, Angela Dalton, Daniel
-Schoenberger, and Peter Maurice
-- Interview and dialogue with individuals having direct experience in token regulation in the
-US. The team will proceed by asking for contributions in the form of written or oral
-interviews.
-- A brief review of the relevant literature
-- Agnostic method: the research will not take a position about how Web3 should or should not
-be regulated. Its aim is solely to share the process and outcomes of Polkadot’s US regulatory
-journey.
-- Educational approach: the research will be aided by diagrams and visuals to make the topics
-comprehensible to a wide, non-technical audience
-- Divergent opinions welcome: We will include a wide variety of opinions in order to provide
-consumers of our research with the maximum number of useful approaches.
+- Interview and dialogue with the actors who, on behalf of Polkadot, engaged in the conversation with the SEC, including Joshua Ashley Klayman, Angela Dalton, Daniel Schoenberger, and Peter Mauric.
+- Interview  individuals having direct experience in token regulation in the US.
+- A brief review of the relevant literature.
+- Agnostic method: the research will not take a position about how Web3 should or should not be regulated. Its aim is solely to share the process and outcomes of Polkadot’s US regulatory journey.
+- Educational approach: the research will be aided by diagrams and visuals to make the topics comprehensible to a wide, non-technical audience.
+- Educational approach: the research will be aided by diagrams and visuals to make the topics comprehensible to a wide, non-technical audience.
 
-We are not aware of the existence of any other research project covering the same topics this
-research aims to address.
 
 ### Ecosystem Fit
 
@@ -75,6 +49,9 @@ We aim to conduct an in-depth study of Polkadot’s regulatory journey and succe
 key, ecosystem agnostic concepts which are as yet not well / widely understood. In this way, we aim
 to help the Dotsama ecosystem learn from itself while also providing valuable guidance to the
 broader web3 space.
+
+We are not aware of the existence of any other research project covering the same topics this
+research aims to address.
 
 ## Team :busts_in_silhouette:
 
