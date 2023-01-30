@@ -200,7 +200,7 @@ initiative are:
 
 - **Estimated Duration:** 2 months
 - **FTE:**  1
-- **Costs:** 5.000 USD
+- **Costs:** 5.000 USDC
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -216,7 +216,7 @@ initiative are:
 
 The team involved decides to work on a cost-reimbursement basis. If market rates were to be applied for professional or research activities, the cost would be prohibitively high.
 
-The flat-rate cost requested is USDC 15,000.00 to be considered as reimbursement only.
+The flat-rate cost requested is USDC 15.000,00 to be considered as reimbursement only.
 
 The team agrees to be paid on completion of the entire activity: no payment required upon completion of the intermediate milestones.
 
