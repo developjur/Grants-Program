@@ -40,7 +40,6 @@ current trends?
 - A brief review of the relevant literature.
 - Agnostic method: the research will not take a position about how Web3 should or should not be regulated. Its aim is solely to share the process and outcomes of Polkadot’s US regulatory journey.
 - Educational approach: the research will be aided by diagrams and visuals to make the topics comprehensible to a wide, non-technical audience.
-- Educational approach: the research will be aided by diagrams and visuals to make the topics comprehensible to a wide, non-technical audience.
 
 
 ### Ecosystem Fit
