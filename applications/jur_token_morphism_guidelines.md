@@ -49,6 +49,8 @@ key, ecosystem agnostic concepts which are as yet not well / widely understood. 
 to help the Dotsama ecosystem learn from itself while also providing valuable guidance to the
 broader web3 space.
 
+**Related Projects**
+
 We are not aware of the existence of any other research project covering the same topics this
 research aims to address.
 
@@ -135,7 +137,7 @@ University College of Turin and University of Turin. She is pursuing a master's 
 in Entrepreneurship and Innovation at the University of Padua. Its legal field is private
 international law, in particular contract law.
 - **Will Sauer**
-Operations at Jur. Technically-grounded operations leader with a proven track record
+Technically-grounded operations leader with a proven track record
 across the startup and venture ecosystem. Most recently he spent 3 years as a
 back-end software engineer. Prior to that he ran Finance and Operations at a Series
 A / B startup in San Francisco and worked for several alternative investment funds.
@@ -233,4 +235,5 @@ Future plans might include additional publications around similar topics when ne
 shared best practices cannot be gathered
 
 **How did you hear about the Grants Program?**
+
 We are aware of Web3 Foundation by way of our (Jur’s) participation in the Dotsama ecosystem. We decided to apply because we perceive this activity beneficial to the Web3 space.
